@@ -1,0 +1,17 @@
+p {
+    /* color:red; */
+}
+
+.color-a {
+    color:greenyellow;
+}
+
+
+.big-font{
+    font-size:21pt;
+    /* height width */
+}
+
+#main-text{
+    font-weight:bold;
+}
